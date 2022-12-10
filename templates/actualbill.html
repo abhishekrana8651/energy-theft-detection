@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% block body %}
+<div class="table-responsive">
+        <table class="table bg-white" ID='TB'>
+            <thead class="thead-dark">
+                <style>
+                    @media only screen and (max-width: 600px) {
+                        th {
+                            font-size: 10px;
+                        }
+
+                        td {
+                            font-size: 10px;
+                        }
+                    }
+
+                    @media only screen and (max-width: 600px) {
+                        th {
+                            font-size: 8px;
+                        }
+
+                        td {
+                            font-size: 8px;
+                        }
+                    }
+                </style>
+                <tr>
+      <th scope="col">USERNAME.</th>
+      <th scope="col">ADDRESS</th>
+      <th scope="col">METER NO.</th>
+      <th scope="col">ACTUAL BILL</th>
+  </tr>
+</thead>
+<tbody>
+    {% for i in DATA%}
+    <tr>
+    <td> {{i.user}}</td>
+    <td> {{i.address}}</td>
+    <td> {{i.meter}}</td>
+    <td> {{i.actual}}</td>
+
+    </tr>
+    {% endfor %}
+    
+</tbody>
+        </table>
+        
+
+</div>
+{% endblock body %}

@@ -1,0 +1,14 @@
+,suspect,prediction,user,address,meter,actual,email
+0,user is a suspect,784.5797676789521,Aditya Singh,"Shimla,Himachal Pradesh",5634,123,adi543@gmail.com
+1,user is a suspect,784.5797676789521,Ghanshaym Shukla,"Shimla,Himachal Pradesh",11904,380,ghanshyam@gmail.com
+2,user is a suspect,784.5797676789521,Prakhar Pratyush,"Chapra,Bihar",16723,160,prakharp@gmail.com
+3,user is a suspect,784.5797676789521,Ritwik Kumar,"Shimla,Himachal Pradesh",23456,780.24,ritw1234@gmail.com
+4,user is a suspect,824.5797676789521,Atharv Sood,"Shimla,Himachal Pradesh",12345,390,soodatharv@gmail.com
+5,user is a suspect,824.5797676789521,Yojan Sharma,"Jaipur,Rajasthan",194523,120,yojans@gmail.com
+6,user is a suspect,874.5797676789521,Vivek Kumar,"Begusarai,Bihar",23455,456,vivu69@gmail.com
+7,user is not a suspect,324.5797676789521,Saksham Sayal,"Shimla,Himachal Pradesh",3456,234,saksham@gmail.com
+8,user is not a suspect,424.5797676789521,Yamini Sharma,"Shimla,Himachal Pradesh",192006,670,yamini1243@gmail.com
+9,user is not a suspect,597.6778708023108,Upendra Dwivedi,"Kanpur,Uttar Pradesh",192056,130,dwivediupendra0509@gmail.com
+10,user is not a suspect,601.6852389632056,Kunal Thakur,"Hamirpur,Himachal Pradesh",192040,230,kt192@gmail.com
+11,user is not a suspect,624.5797676789521,Nehal Singhal,"Ghaziabad,Uttar Pradesh",11111,100,nehal1902@gmail.com
+12,user is not a suspect,724.5797676789521,Yugank Sharma,"Shimla,Himachal Pradesh",56789,190,yugisharma@gmail.com
