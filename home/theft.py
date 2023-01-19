@@ -5,7 +5,7 @@ import numpy as np
 
 BILL = pd.read_csv('home/billtest.csv',index_col=0)
 BILL.to_csv('home/billtest.csv')
-lis = ['BILL1','BILL2','BILL3','BILL4','BILL5','BILL6','BILL7','BILL8','BILL9','BILL10','BILL11','BILL12','BILL13']
+lis = ['BILL1','BILL2','BILL3','BILL4','BILL5','BILL6','BILL7','BILL8','BILL9','BILL10','BILL11','BILL12','BILL13']  #bill1 represent the bill of first person, bill2 bill of secondperson.
 OP=[]
 CP=[]
 dp = ['Kunal Thakur','Upendra Dwivedi','Yamini Sharma','Yojan Sharma','Atharv Sood','Yugank Sharma','Nehal Singhal','Saksham Sayal','Vivek Kumar','Prakhar Pratyush','Ghanshaym Shukla','Ritwik Kumar','Aditya Singh']
